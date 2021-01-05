@@ -4,4 +4,4 @@
 java-sdk-14
 
 # Running The Project
-run AgeOfVillagers.java
+run Age Of Villagers/src/Shapes/AgeOfVillagers.java 
